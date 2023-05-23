@@ -1,0 +1,14 @@
+.paragraph1 {
+    color: blue;
+    font-family: Arial, sans-serif;
+}
+
+.paragraph2 {
+    color: green;
+    font-family: "Times New Roman", serif;
+}
+
+.paragraph3 {
+    color: red;
+    font-family: Verdana, Geneva, sans-serif;
+}
